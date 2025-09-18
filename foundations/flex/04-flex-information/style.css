@@ -17,7 +17,7 @@ img {
 
 .content{
   display: flex;
-  justify-content:space-around;
+  justify-content:center;
   gap: 56px;
   padding: 10px;
   margin-top: 36px;
